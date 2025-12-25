@@ -1,19 +1,19 @@
-## Hi there 👋
+## Hi there
 
 ![Snake Animation](https://upload.wikimedia.org/wikipedia/commons/4/41/Snake_can_be_completed.gif)
 
 ---
 
 ### About Me
-I'm **Josiah**, turning caffeine ☕ and curiosity into code 💻.  
-Collector of bugs 🐞, breaker of builds 💥, and occasional open-source chaos contributor 🌐.
+I'm Josiah, turning curiosity into code.  
+Collector of bugs, breaker of builds, and occasional open-source contributor.
 
-- 🔭 Currently working on: Fullstack projects and automation hacks  
-- 🌱 Learning: TypeScript, React, Next.js, and advanced Git tricks  
-- 👯 Looking to collaborate on: Open-source tools, web apps, and fun automation experiments  
-- 🤔 Ask me about: Programming, gaming, and weird tech hacks  
+- 🔭 Currently working on: Fullstack projects and automation tools  
+- 🌱 Learning: TypeScript, React, Next.js, Java  
+- 👯 Looking to collaborate on: Open-source tools and web apps  
+- 🤔 Ask me about: Programming, gaming, and tech projects  
 - 💬 Reach me at: choujiakimichi02@gmail.com  
-- ⚡ Fun fact: I automate my GitHub contributions so my green squares never sleep 🟩  
+- ⚡ Fun fact: I enjoy solving challenging coding problems
 
 ---
 
