@@ -1,6 +1,7 @@
 ## Hi there
 
-![Snake Animation](https://upload.wikimedia.org/wikipedia/commons/4/41/Snake_can_be_completed.gif)
+![Snake GIF](https://media.tenor.com/3oEjI6SIIHBs.gif)
+
 
 ---
 
