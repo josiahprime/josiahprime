@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**josiahprime/josiahprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Snake Animation](https://upload.wikimedia.org/wikipedia/commons/4/41/Snake_can_be_completed.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm **Josiah**, turning caffeine ☕ and curiosity into code 💻.  
+Collector of bugs 🐞, breaker of builds 💥, and occasional open-source chaos contributor 🌐.
+
+- 🔭 Currently working on: Fullstack projects and automation hacks  
+- 🌱 Learning: TypeScript, React, Next.js, and advanced Git tricks  
+- 👯 Looking to collaborate on: Open-source tools, web apps, and fun automation experiments  
+- 🤔 Ask me about: Programming, gaming, and weird tech hacks  
+- 💬 Reach me at: choujiakimichi02@gmail.com  
+- ⚡ Fun fact: I automate my GitHub contributions so my green squares never sleep 🟩  
+
+---
+
+### GitHub Stats
+![Josiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josiahprime&show_icons=true&theme=radical)
